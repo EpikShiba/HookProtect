@@ -1,3 +1,5 @@
+#Protected under GNU 2.0 Public license.
+#Made by EpikShiba, https://github.com/EpikShiba/HookProtect/
 import requests
 import base64
 import time
